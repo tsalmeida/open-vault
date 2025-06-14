@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-created folder/Obsidian-created file.md",
+                "file": "Another folder to test private/Another file to test private.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian-created file"
+              "title": "Another file to test private"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,9 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cda903d2945f315",
+  "active": "fa5bbb2ca7bfb604",
   "lastOpenFiles": [
     "Obsidian-created folder/Obsidian-created file.md",
+    "Another folder to test private/Another file to test private.md",
+    "Another folder to test private",
     "Obsidian-created folder/Anotherone.md",
     "folder-created-on-tekhnexos/File created on tekhnexos.md",
     "Obsidian-created folder",
