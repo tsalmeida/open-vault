@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One more private test/Another private file textt.md",
+                "file": "Another folder to test private/Another file to test private.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Another private file textt"
+              "title": "Another file to test private"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "fa5bbb2ca7bfb604",
   "lastOpenFiles": [
-    "Another folder to test private/Another file to test private.md",
     "One more private test/Another private file textt.md",
+    "Another folder to test private/Another file to test private.md",
     "One more private test",
     "Obsidian-created folder/Obsidian-created file.md",
     "Another folder to test private",
