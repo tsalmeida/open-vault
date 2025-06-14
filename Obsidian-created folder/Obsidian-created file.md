@@ -1,0 +1,1 @@
+Content of Obsidian-created file.
